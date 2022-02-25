@@ -1,3 +1,5 @@
+// BIRD GAME CODE
+// RUN FROM THE MAIN
 
 #include "bird_game.h"
 
